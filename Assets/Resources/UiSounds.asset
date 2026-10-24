@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8c4a17b2d9f4e6a9c3b5d7f10482639, type: 3}
+  m_Name: UiSounds
+  m_EditorClassIdentifier: Assembly-CSharp::MineGarden.UiSounds
+  woodBlocks:
+  - {fileID: 8300000, guid: acbd01cdf53506541ae5c30df72606a1, type: 3}
+  - {fileID: 8300000, guid: df60351d9c281ba4aaa683bb517d7bbb, type: 3}
+  - {fileID: 8300000, guid: 61c11a9a7d1ba784d905e6d139e8f75f, type: 3}
